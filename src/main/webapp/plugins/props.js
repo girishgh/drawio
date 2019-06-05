@@ -42,7 +42,7 @@ Draw.loadPlugin(function(ui) {
 		if (cell == null)
 		{
 			highlight.highlight(null);
-			div.innerHTML = '<p><i>Select a shape.</i></p>';
+			div.innerHTML = '<p><i>Select a shape please.</i></p>';
 		}
 		else
 		{
