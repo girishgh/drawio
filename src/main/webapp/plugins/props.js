@@ -24,7 +24,7 @@ Draw.loadPlugin(function(ui) {
 		div.style.right = '260px';
 	}
 	
-	div.innerHTML = '<p><i>Select a shape.</i></p>';
+	div.innerHTML = '<p><i>Select a shape please.</i></p>';
 	document.body.appendChild(div);
 	
 	// Highlights current cell
