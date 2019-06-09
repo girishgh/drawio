@@ -463,6 +463,7 @@ network=Network
 networking=Networking
 new=New
 newLibrary=New Library
+next=Next
 nextPage=Next Page
 no=Hapana
 noPickFolder=No, pick folder
